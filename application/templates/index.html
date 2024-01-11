@@ -1,0 +1,30 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AFCON Match Outcome Predictor</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+<div class="bg">
+    <div class="container">
+        <h1>AFCON Match Outcome Predictor</h1>
+        <form method="post">
+            <label for="home_team">Home Team:</label>
+            <input type="text" id="home_team" name="home_team" required>
+            <label for="away_team">Away Team:</label>
+            <input type="text" id="away_team" name="away_team" required>
+            <label for="stage">Stage:</label>
+            <input type="text" id="stage" name="stage" required>
+            <button type="submit">Predict Outcome</button>
+        </form>
+        {% if prediction %}
+            <p>Prediction: {{ prediction }}</p>
+        {% endif %}
+    </div>
+</div>
+
+</body>
+</html>
