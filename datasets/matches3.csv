@@ -1,0 +1,671 @@
+Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,Date,HomeTeam_encoded,AwayTeam_encoded,Stage_encoded,MatchOutcome
+1957,10-Feb-57,,Sudan , Egypt,1,2,Semi-finals,10/02/2057,36,13,12,-1
+1957,16-Feb-57,,Egypt , Ethiopia,4,0,Final,16/02/2057,12,15,0,1
+1959,22-May-59,,Egypt, Ethiopia,4,0,Final,22/05/2059,11,15,1,1
+1959,25-May-59,,Sudan , Ethiopia,1,0,Final,25/05/2059,36,15,1,1
+1959,29-May-59,,Egypt, Sudan,2,1,Final,29/05/2059,11,38,1,1
+1962,14-Jan-62,,Ethiopia , Tunisia,4,2,Semi-finals,14/01/2062,14,41,12,1
+1962,18-Jan-62,,Egypt, Uganda,2,1,Semi-finals,18/01/2062,11,42,12,1
+1962,20-Jan-62,,Tunisia , Uganda,3,0,Third place,20/01/2062,39,42,13,1
+1962,21-Jan-62,,Ethiopia ,Egypt,4,2,Final,21/01/2062,14,47,0,1
+1963,24-Nov-63,,Ghana , Tunisia,1,1,Group stage,24/11/2063,17,41,2,0
+1963,26-Nov-63,,Ghana , Ethiopia,2,0,Group stage,26/11/2063,17,15,2,1
+1963,28-Nov-63,,Ethiopia , Tunisia,4,2,Group stage,28/11/2063,14,41,2,1
+1963,24-Nov-63,,Egypt, Nigeria,6,3,Group stage,24/11/2063,11,33,3,1
+1963,26-Nov-63,,Egypt, Sudan,2,2,Group stage,26/11/2063,11,38,3,0
+1963,28-Nov-63,,Sudan , Nigeria,4,0,Group stage,28/11/2063,36,33,3,1
+1963,30-Nov-63,,Egypt, Ethiopia,3,0,Third place,30/11/2063,11,15,13,1
+1963,01-Dec-63,,Ghana , Sudan,3,0,Final,01/12/2063,17,38,0,1
+1965,12-Nov-65,,Tunisia , Ethiopia,4,0,Group stage,12/11/2065,39,15,2,1
+1965,14-Nov-65,,Senegal , Tunisia,0,0,Group stage,14/11/2065,33,41,2,0
+1965,19-Nov-65,,Senegal , Ethiopia,5,1,Group stage,19/11/2065,33,15,2,1
+1965,12-Nov-65,,Ghana , Congo-Léopoldville,5,2,Group stage,12/11/2065,17,11,3,1
+1965,14-Nov-65,,Ivory Coast , Congo-Léopoldville,3,0,Group stage,14/11/2065,20,11,3,1
+1965,19-Nov-65,,Ghana , Ivory Coast,4,1,Group stage,19/11/2065,17,21,3,1
+1965,21-Nov-65,,Senegal , Ivory Coast,0,1,Third place,21/11/2065,33,21,13,-1
+1965,21-Nov-65,,Ghana , Tunisia,3,2,Final,21/11/2065,17,41,0,1
+1968,12-Jan-68,,Ethiopia , Uganda,2,1,Group stage,12/01/2068,14,42,2,1
+1968,12-Jan-68,,Ivory Coast , Algeria,3,0,Group stage,12/01/2068,20,0,2,1
+1968,14-Jan-68,,Ethiopia , Ivory Coast,1,0,Group stage,14/01/2068,14,21,2,1
+1968,14-Jan-68,,Algeria , Uganda,4,0,Group stage,14/01/2068,0,42,2,1
+1968,16-Jan-68,,Ivory Coast , Uganda,2,1,Group stage,16/01/2068,20,42,2,1
+1968,16-Jan-68,,Ethiopia , Algeria,3,1,Group stage,16/01/2068,14,0,2,1
+1968,12-Jan-68,,Ghana , Senegal,2,2,Group stage,12/01/2068,17,35,3,0
+1968,12-Jan-68,,Congo-Kinshasa , Congo-Brazzaville,3,0,Group stage,12/01/2068,9,9,3,1
+1968,14-Jan-68,,Senegal , Congo-Brazzaville,2,1,Group stage,14/01/2068,33,9,3,1
+1968,14-Jan-68,,Ghana , Congo-Kinshasa,2,1,Group stage,14/01/2068,17,10,3,1
+1968,16-Jan-68,,Congo-Kinshasa , Senegal,2,1,Group stage,16/01/2068,9,35,3,1
+1968,16-Jan-68,,Ghana , Congo-Brazzaville,3,1,Group stage,16/01/2068,17,9,3,1
+1968,19-Jan-68,,Ethiopia , Congo-Kinshasa,2,3,Semi-finals,19/01/2068,14,10,11,-1
+1968,19-Jan-68,,Ghana , Ivory Coast,4,3,Semi-finals,19/01/2068,17,21,11,1
+1968,21-Jan-68,,Ivory Coast , Ethiopia,1,0,Third place,21/01/2068,20,15,13,1
+1968,21-Jan-68,,Congo-Kinshasa , Ghana,1,0,Final,21/01/2068,9,18,0,1
+1970,06-Feb-70,,Cameroon , Ivory Coast,3,2,Group stage,06/02/2070,5,21,2,1
+1970,06-Feb-70,,Sudan , Ethiopia,3,0,Group stage,06/02/2070,36,15,2,1
+1970,08-Feb-70,,Cameroon , Ethiopia,3,2,Group stage,08/02/2070,5,15,2,1
+1970,08-Feb-70,,Ivory Coast , Sudan,1,0,Group stage,08/02/2070,20,38,2,1
+1970,10-Feb-70,,Ivory Coast , Ethiopia,6,1,Group stage,10/02/2070,20,15,2,1
+1970,10-Feb-70,,Sudan , Cameroon,2,1,Group stage,10/02/2070,36,5,2,1
+1970,07-Feb-70,,Ghana , Congo-Kinshasa,2,0,Group stage,07/02/2070,17,10,3,1
+1970,07-Feb-70,,United Arab Rep. , Guinea,4,1,Group stage,07/02/2070,41,19,3,1
+1970,09-Feb-70,,Congo-Kinshasa , Guinea,2,2,Group stage,09/02/2070,9,19,3,0
+1970,09-Feb-70,,United Arab Rep. , Ghana,1,1,Group stage,09/02/2070,41,18,3,0
+1970,11-Feb-70,,Guinea , Ghana,1,1,Group stage,11/02/2070,18,18,3,0
+1970,11-Feb-70,,United Arab Rep. , Congo-Kinshasa,1,0,Group stage,11/02/2070,41,10,3,1
+1970,14-Feb-70,,Ivory Coast , Ghana,1,2,Semi-finals,14/02/2070,20,18,12,-1
+1970,14-Feb-70,,United Arab Rep. , Sudan,1,2,Semi-finals,14/02/2070,41,38,12,-1
+1970,16-Feb-70,,United Arab Rep. , Ivory Coast,3,1,Third place,16/02/2070,41,21,13,1
+1970,16-Feb-70,,Sudan , Ghana,1,0,Final,16/02/2070,36,18,0,1
+1972,23-Feb-72,,Cameroon , Kenya,2,1,Group stage,23/02/2072,5,22,2,1
+1972,24-Feb-72,,Mali , Togo,3,3,Group stage,24/02/2072,26,40,2,0
+1972,26-Feb-72,,Mali , Kenya,1,1,Group stage,26/02/2072,26,22,2,0
+1972,26-Feb-72,,Cameroon , Togo,2,0,Group stage,26/02/2072,5,40,2,1
+1972,28-Feb-72,,Togo , Kenya,1,1,Group stage,28/02/2072,38,22,2,0
+1972,28-Feb-72,,Cameroon , Mali,1,1,Group stage,28/02/2072,5,27,2,0
+1972,25-Feb-72,,Congo , Morocco,1,1,Group stage,25/02/2072,8,30,3,0
+1972,25-Feb-72,,Zaire , Sudan,1,1,Group stage,25/02/2072,42,38,3,0
+1972,27-Feb-72,,Morocco , Sudan,1,1,Group stage,27/02/2072,28,38,3,0
+1972,27-Feb-72,,Zaire , Congo,2,0,Group stage,27/02/2072,42,8,3,1
+1972,29-Feb-72,,Morocco , Zaire,1,1,Group stage,29/02/2072,28,44,3,0
+1972,29-Feb-72,,Congo , Sudan,4,2,Group stage,29/02/2072,8,38,3,1
+1972,02-Mar-72,,Cameroon , Congo,0,1,Semi-finals,02/03/2072,5,8,12,-1
+1972,02-Mar-72,,Zaire , Mali,3,4,Semi-finals,02/03/2072,42,27,12,-1
+1972,04-Mar-72,,Cameroon , Zaire,5,2,Third place,04/03/2072,5,44,13,1
+1972,05-Mar-72,,Congo , Mali,3,2,Final,05/03/2072,8,27,0,1
+1974,01-Mar-74,,Egypt , Uganda,2,1,Group stage,01/03/1974,12,42,2,1
+1974,02-Mar-74,,Zambia , Ivory Coast,1,0,Group stage,02/03/1974,43,21,2,1
+1974,04-Mar-74,,Egypt , Zambia,3,1,Group stage,04/03/1974,12,45,2,1
+1974,04-Mar-74,,Ivory Coast , Uganda,2,2,Group stage,04/03/1974,20,42,2,0
+1974,06-Mar-74,,Egypt , Ivory Coast,2,0,Group stage,06/03/1974,12,21,2,1
+1974,06-Mar-74,,Zambia , Uganda,1,0,Group stage,06/03/1974,43,42,2,1
+1974,03-Mar-74,,Zaire , Guinea,2,1,Group stage,03/03/1974,42,19,3,1
+1974,03-Mar-74,,Congo , Mauritius,2,0,Group stage,03/03/1974,8,29,3,1
+1974,05-Mar-74,,Guinea , Mauritius,2,1,Group stage,05/03/1974,18,29,3,1
+1974,05-Mar-74,,Congo , Zaire,2,1,Group stage,05/03/1974,8,44,3,1
+1974,07-Mar-74,,Congo , Guinea,1,1,Group stage,07/03/1974,8,19,3,0
+1974,07-Mar-74,,Zaire , Mauritius,4,1,Group stage,07/03/1974,42,29,3,1
+1974,09-Mar-74,,Egypt , Zaire,2,3,Semi-finals,09/03/1974,12,44,12,-1
+1974,09-Mar-74,,Congo , Zambia,2,4,Semi-finals,09/03/1974,8,45,12,-1
+1974,11-Mar-74,,Congo , Egypt,0,4,Third place,11/03/1974,8,13,13,-1
+1974,12-Mar-74,,Zaire , Zambia,2,2,Final,12/03/1974,42,45,0,0
+1974,14-Mar-74,,Zaire , Zambia,2,0,Final,14/03/1974,42,45,0,1
+1976,29-Feb-76,,Ethiopia , Uganda,2,0,Group stage,29/02/1976,14,42,2,1
+1976,29-Feb-76,,Egypt , Guinea,1,1,Group stage,29/02/1976,12,19,2,0
+1976,03-Mar-76,,Egypt , Uganda,2,1,Group stage,03/03/1976,12,42,2,1
+1976,03-Mar-76,,Ethiopia , Guinea,1,2,Group stage,03/03/1976,14,19,2,-1
+1976,05-Mar-76,,Guinea , Uganda,2,1,Group stage,05/03/1976,18,42,2,1
+1976,05-Mar-76,,Ethiopia , Egypt,1,1,Group stage,05/03/1976,14,13,2,0
+1976,01-Mar-76,,Nigeria , Zaire,4,2,Group stage,01/03/1976,31,44,3,1
+1976,01-Mar-76,,Morocco , Sudan,2,2,Group stage,01/03/1976,28,38,3,0
+1976,04-Mar-76,,Nigeria , Sudan,1,0,Group stage,04/03/1976,31,38,3,1
+1976,04-Mar-76,,Morocco , Zaire,1,0,Group stage,04/03/1976,28,44,3,1
+1976,06-Mar-76,,Morocco , Nigeria,3,1,Group stage,06/03/1976,28,33,3,1
+1976,06-Mar-76,,Zaire , Sudan,1,1,Group stage,06/03/1976,42,38,3,0
+1976,09-Mar-76,,Guinea , Nigeria,1,1,Group stage,09/03/1976,18,33,3,0
+1976,09-Mar-76,,Morocco , Egypt,2,1,Group stage,09/03/1976,28,13,3,1
+1976,11-Mar-76,,Morocco , Nigeria,2,1,Group stage,11/03/1976,28,33,3,1
+1976,11-Mar-76,,Guinea , Egypt,4,2,Group stage,11/03/1976,18,13,3,1
+1976,14-Mar-76,,Nigeria , Egypt,3,2,Group stage,14/03/1976,31,13,3,1
+1976,14-Mar-76,,Guinea , Morocco,1,1,Group stage,14/03/1976,18,30,3,0
+1978,05-Mar-78,,Ghana , Zambia,2,1,Group stage,05/03/1978,17,45,2,1
+1978,05-Mar-78,,Nigeria , Upper Volta,4,2,Group stage,05/03/1978,31,43,2,1
+1978,08-Mar-78,,Zambia , Upper Volta,2,0,Group stage,08/03/1978,43,43,2,1
+1978,08-Mar-78,,Nigeria , Ghana,1,1,Group stage,08/03/1978,31,18,2,0
+1978,10-Mar-78,,Zambia , Nigeria,0,0,Group stage,10/03/1978,43,33,2,0
+1978,10-Mar-78,,Ghana , Upper Volta,3,0,Group stage,10/03/1978,17,43,2,1
+1978,06-Mar-78,,Morocco , Tunisia,1,1,Group stage,06/03/1978,28,41,3,0
+1978,06-Mar-78,,Uganda , Congo,3,1,Group stage,06/03/1978,40,8,3,1
+1978,09-Mar-78,,Tunisia , Uganda,3,1,Group stage,09/03/1978,39,42,3,1
+1978,09-Mar-78,,Morocco , Congo,1,0,Group stage,09/03/1978,28,8,3,1
+1978,11-Mar-78,,Congo , Tunisia,0,0,Group stage,11/03/1978,8,41,3,0
+1978,11-Mar-78,,Uganda , Morocco,3,0,Group stage,11/03/1978,40,30,3,1
+1978,14-Mar-78,,Ghana , Tunisia,1,0,Semi-finals,14/03/1978,17,41,11,1
+1978,14-Mar-78,,Uganda , Nigeria,2,1,Semi-finals,14/03/1978,40,33,11,1
+1978,16-Mar-78,,Nigeria , Tunisia,1,11,Third place,16/03/1978,31,41,13,-1
+1978,16-Mar-78,,Ghana , Uganda,2,0,Final,16/03/1978,17,42,0,1
+1980,08-Mar-80,,Nigeria , Tanzania,3,1,Group stage,08/03/1980,31,39,2,1
+1980,08-Mar-80,,Egypt , Ivory Coast,2,1,Group stage,08/03/1980,12,21,2,1
+1980,12-Mar-80,,Egypt , Tanzania,2,1,Group stage,12/03/1980,12,39,2,1
+1980,12-Mar-80,,Nigeria , Ivory Coast,0,0,Group stage,12/03/1980,31,21,2,0
+1980,15-Mar-80,,Ivory Coast , Tanzania,1,1,Group stage,15/03/1980,20,39,2,0
+1980,15-Mar-80,,Nigeria , Egypt,1,0,Group stage,15/03/1980,31,13,2,1
+1980,09-Mar-80,,Ghana , Algeria,0,0,Group stage,09/03/1980,17,0,3,0
+1980,09-Mar-80,,Morocco , Guinea,1,1,Group stage,09/03/1980,28,19,3,0
+1980,13-Mar-80,,Algeria , Morocco,1,0,Group stage,13/03/1980,0,30,3,1
+1980,13-Mar-80,,Ghana , Guinea,1,0,Group stage,13/03/1980,17,19,3,1
+1980,16-Mar-80,,Algeria , Guinea,3,2,Group stage,16/03/1980,0,19,3,1
+1980,16-Mar-80,,Morocco , Ghana,1,0,Group stage,16/03/1980,28,18,3,1
+1980,19-Mar-80,,Nigeria , Morocco,1,0,Semi-finals,19/03/1980,31,30,11,1
+1980,19-Mar-80,,Algeria , Egypt,2,2,Semi-finals,19/03/1980,0,13,11,0
+1980,21-Mar-80,,Morocco , Egypt,2,0,Third place,21/03/1980,28,13,13,1
+1980,22-Mar-80,,Nigeria , Algeria,3,0,Final,22/03/1980,31,0,0,1
+1982,05-Mar-82,,Libya , Ghana,2,2,Group stage,05/03/1982,23,18,2,0
+1982,05-Mar-82,,Cameroon , Tunisia,1,1,Group stage,05/03/1982,5,41,2,0
+1982,09-Mar-82,,Cameroon , Ghana,0,0,Group stage,09/03/1982,5,18,2,0
+1982,09-Mar-82,,Libya , Tunisia,2,0,Group stage,09/03/1982,23,41,2,1
+1982,12-Mar-82,,Ghana , Tunisia,1,0,Group stage,12/03/1982,17,41,2,1
+1982,12-Mar-82,,Libya , Cameroon,0,0,Group stage,12/03/1982,23,5,2,0
+1982,07-Mar-82,,Nigeria , Ethiopia,3,0,Group stage,07/03/1982,31,15,3,1
+1982,07-Mar-82,,Algeria , Zambia,1,0,Group stage,07/03/1982,0,45,3,1
+1982,10-Mar-82,,Zambia , Ethiopia,1,0,Group stage,10/03/1982,43,15,3,1
+1982,10-Mar-82,,Algeria , Nigeria,2,1,Group stage,10/03/1982,0,33,3,1
+1982,13-Mar-82,,Algeria , Ethiopia,0,0,Group stage,13/03/1982,0,15,3,0
+1982,13-Mar-82,,Zambia , Nigeria,3,0,Group stage,13/03/1982,43,33,3,1
+1982,16-Mar-82,,Ghana , Algeria,3,2,Semi-finals,16/03/1982,17,0,12,1
+1982,16-Mar-82,,Libya , Zambia,2,1,Semi-finals,16/03/1982,23,45,12,1
+1982,18-Mar-82,,Zambia , Algeria,2,0,Third place,18/03/1982,43,0,13,1
+1982,19-Mar-82,,Ghana , Libya,1,1,Final,19/03/1982,17,24,0,0
+1984,04-Mar-84,,Ivory Coast , Togo,3,0,Group stage,04/03/1984,20,40,2,1
+1984,04-Mar-84,,Egypt , Cameroon,1,0,Group stage,04/03/1984,12,5,2,1
+1984,07-Mar-84,,Cameroon , Togo,4,1,Group stage,07/03/1984,5,40,2,1
+1984,07-Mar-84,,Ivory Coast , Egypt,1,2,Group stage,07/03/1984,20,13,2,-1
+1984,10-Mar-84,,Egypt , Togo,0,0,Group stage,10/03/1984,12,40,2,0
+1984,10-Mar-84,,Ivory Coast , Cameroon,0,2,Group stage,10/03/1984,20,5,2,-1
+1984,05-Mar-84,,Ghana , Nigeria,1,2,Group stage,05/03/1984,17,33,3,-1
+1984,05-Mar-84,,Algeria , Malawi,3,0,Group stage,05/03/1984,0,26,3,1
+1984,08-Mar-84,,Malawi , Nigeria,2,2,Group stage,08/03/1984,25,33,3,0
+1984,08-Mar-84,,Algeria , Ghana,2,0,Group stage,08/03/1984,0,18,3,1
+1984,11-Mar-84,,Algeria , Nigeria,0,0,Group stage,11/03/1984,0,33,3,0
+1984,11-Mar-84,,Ghana , Malawi,1,0,Group stage,11/03/1984,17,26,3,1
+1984,14-Mar-84,,Egypt , Nigeria,2,2,Semi-finals,14/03/1984,12,33,12,0
+1984,14-Mar-84,,Algeria , Cameroon,0,0,Semi-finals,14/03/1984,0,5,12,0
+1984,17-Mar-84,,Algeria , Egypt,3,1,Third place,17/03/1984,0,13,13,1
+1984,18-Mar-84,,Cameroon , Nigeria,3,1,Final,18/03/1984,5,33,0,1
+1986,07-Mar-86,,Senegal , Egypt,1,0,Group stage,07/03/1986,33,13,2,1
+1986,07-Mar-86,,Ivory Coast , Mozambique,3,0,Group stage,07/03/1986,20,31,2,1
+1986,10-Mar-86,,Senegal , Mozambique,2,0,Group stage,10/03/1986,33,31,2,1
+1986,10-Mar-86,,Egypt , Ivory Coast,2,0,Group stage,10/03/1986,12,21,2,1
+1986,13-Mar-86,,Ivory Coast , Senegal,1,0,Group stage,13/03/1986,20,35,2,1
+1986,13-Mar-86,,Egypt , Mozambique,2,0,Group stage,13/03/1986,12,31,2,1
+1986,08-Mar-86,,Algeria , Morocco,0,0,Group stage,08/03/1986,0,30,3,0
+1986,08-Mar-86,,Cameroon , Zambia,3,2,Group stage,08/03/1986,5,45,3,1
+1986,11-Mar-86,,Algeria , Zambia,0,0,Group stage,11/03/1986,0,45,3,0
+1986,11-Mar-86,,Cameroon , Morocco,1,1,Group stage,11/03/1986,5,30,3,0
+1986,14-Mar-86,,Morocco , Zambia,1,0,Group stage,14/03/1986,28,45,3,1
+1986,14-Mar-86,,Cameroon , Algeria,3,2,Group stage,14/03/1986,5,0,3,1
+1986,17-Mar-86,,Cameroon , Ivory Coast,1,0,Semi-finals,17/03/1986,5,21,12,1
+1986,17-Mar-86,,Egypt , Morocco,1,0,Semi-finals,17/03/1986,12,30,12,1
+1986,20-Mar-86,,Ivory Coast , Morocco,3,2,Third place,20/03/1986,20,30,13,1
+1986,21-Mar-86,,Egypt , Cameroon,0,0,Final,21/03/1986,12,5,0,0
+1988,13-Mar-88,,Morocco , Zaire,1,1,Group stage,13/03/1988,28,44,2,0
+1988,13-Mar-88,,Ivory Coast , Algeria,1,1,Group stage,13/03/1988,20,0,2,0
+1988,16-Mar-88,,Ivory Coast , Zaire,1,1,Group stage,16/03/1988,20,44,2,0
+1988,16-Mar-88,,Morocco , Algeria,1,0,Group stage,16/03/1988,28,0,2,1
+1988,19-Mar-88,,Algeria , Zaire,1,0,Group stage,19/03/1988,0,44,2,1
+1988,19-Mar-88,,Morocco , Ivory Coast,0,0,Group stage,19/03/1988,28,21,2,0
+1988,14-Mar-88,,Cameroon , Egypt,1,0,Group stage,14/03/1988,5,13,3,1
+1988,14-Mar-88,,Nigeria , Kenya,3,0,Group stage,14/03/1988,31,22,3,1
+1988,17-Mar-88,,Cameroon , Nigeria,1,1,Group stage,17/03/1988,5,33,3,0
+1988,17-Mar-88,,Egypt , Kenya,3,0,Group stage,17/03/1988,12,22,3,1
+1988,20-Mar-88,,Cameroon , Kenya,0,0,Group stage,20/03/1988,5,22,3,0
+1988,20-Mar-88,,Nigeria , Egypt,0,0,Group stage,20/03/1988,31,13,3,0
+1988,23-Mar-88,,Nigeria , Algeria,1,1,Semi-finals,23/03/1988,31,0,12,0
+1988,23-Mar-88,,Morocco , Cameroon,0,1,Semi-finals,23/03/1988,28,5,12,-1
+1988,26-Mar-88,,Morocco , Algeria,1,1,Third place,26/03/1988,28,0,13,0
+1988,27-Mar-88,,Cameroon , Nigeria,1,0,Final,27/03/1988,5,33,0,1
+1990,02-Mar-90,,Algeria , Nigeria,5,1,Group stage,02/03/1990,0,33,2,1
+1990,02-Mar-90,,Ivory Coast , Egypt,3,1,Group stage,02/03/1990,20,13,2,1
+1990,05-Mar-90,,Nigeria , Egypt,1,0,Group stage,05/03/1990,31,13,2,1
+1990,05-Mar-90,,Algeria , Ivory Coast,3,0,Group stage,05/03/1990,0,21,2,1
+1990,08-Mar-90,,Nigeria , Ivory Coast,1,0,Group stage,08/03/1990,31,21,2,1
+1990,08-Mar-90,,Algeria , Egypt,2,0,Group stage,08/03/1990,0,13,2,1
+1990,03-Mar-90,,Zambia , Cameroon,1,0,Group stage,03/03/1990,43,5,3,1
+1990,03-Mar-90,,Senegal , Kenya,0,0,Group stage,03/03/1990,33,22,3,0
+1990,06-Mar-90,,Zambia , Kenya,1,0,Group stage,06/03/1990,43,22,3,1
+1990,06-Mar-90,,Senegal , Cameroon,2,0,Group stage,06/03/1990,33,5,3,1
+1990,09-Mar-90,,Zambia , Senegal,0,0,Group stage,09/03/1990,43,35,3,0
+1990,09-Mar-90,,Cameroon , Kenya,2,0,Group stage,09/03/1990,5,22,3,1
+1990,12-Mar-90,,Zambia , Nigeria,0,2,Semi-finals,12/03/1990,43,33,11,-1
+1990,12-Mar-90,,Algeria , Senegal,2,1,Semi-finals,12/03/1990,0,35,11,1
+1990,15-Mar-90,,Zambia , Senegal,1,0,Third place,15/03/1990,43,35,13,1
+1990,16-Mar-90,16:00,Algeria , Nigeria,1,0,Final,16/03/1990,0,33,0,1
+1992,12-Jan-92,,Nigeria , Senegal,2,1,Group stage,12/01/1992,31,35,2,1
+1992,14-Jan-92,,Nigeria , Kenya,2,1,Group stage,14/01/1992,31,22,2,1
+1992,16-Jan-92,,Senegal , Kenya,3,0,Group stage,16/01/1992,33,22,2,1
+1992,12-Jan-92,,Cameroon , Morocco,1,0,Group stage,12/01/1992,5,30,3,1
+1992,14-Jan-92,,Morocco , Zaire,1,1,Group stage,14/01/1992,28,44,3,0
+1992,16-Jan-92,,Cameroon , Zaire,1,1,Group stage,16/01/1992,5,44,3,0
+1992,13-Jan-92,,Ivory Coast , Algeria,3,0,Group stage,13/01/1992,20,0,4,1
+1992,15-Jan-92,,Ivory Coast , Congo,0,0,Group stage,15/01/1992,20,8,4,0
+1992,17-Jan-92,,Algeria , Congo,1,1,Group stage,17/01/1992,0,8,4,0
+1992,13-Jan-92,,Zambia , Egypt,1,0,Group stage,13/01/1992,43,13,5,1
+1992,15-Jan-92,,Ghana , Zambia,1,0,Group stage,15/01/1992,17,45,5,1
+1992,17-Jan-92,,Ghana , Egypt,1,0,Group stage,17/01/1992,17,13,5,1
+1992,19-Jan-92,,Nigeria , Zaire,1,0,Quarter-finals,19/01/1992,31,44,8,1
+1992,19-Jan-92,,Cameroon , Senegal,1,0,Quarter-finals,19/01/1992,5,35,8,1
+1992,20-Jan-92,,Ivory Coast , Zambia,1,0,Quarter-finals,20/01/1992,20,45,8,1
+1992,20-Jan-92,,Ghana , Congo,2,1,Quarter-finals,20/01/1992,17,8,8,1
+1992,23-Jan-92,,Ghana , Nigeria,2,1,Semi-finals,23/01/1992,17,33,11,1
+1992,23-Jan-92,,Cameroon , Ivory Coast,0,0,Semi-finals,23/01/1992,5,21,11,0
+1992,25-Jan-92,,Nigeria , Cameroon,2,1,Third place,25/01/1992,31,5,13,1
+1992,26-Jan-92,,Ivory Coast , Ghana,0,0,Final,26/01/1992,20,18,0,0
+1994,26-Mar-94,,Tunisia , Mali,0,2,Group stage,26/03/1994,39,27,2,-1
+1994,28-Mar-94,,Mali , Zaire,0,1,Group stage,28/03/1994,26,44,2,-1
+1994,30-Mar-94,,Tunisia , Zaire,1,1,Group stage,30/03/1994,39,44,2,0
+1994,26-Mar-94,,Nigeria , Gabon,3,0,Group stage,26/03/1994,31,16,3,1
+1994,28-Mar-94,,Egypt , Gabon,4,0,Group stage,28/03/1994,12,16,3,1
+1994,30-Mar-94,,Nigeria , Egypt,0,0,Group stage,30/03/1994,31,13,3,0
+1994,27-Mar-94,,Ivory Coast , Sierra Leone,4,0,Group stage,27/03/1994,20,36,4,1
+1994,29-Mar-94,,Zambia , Sierra Leone,0,0,Group stage,29/03/1994,43,36,4,0
+1994,31-Mar-94,,Zambia , Ivory Coast,1,0,Group stage,31/03/1994,43,21,4,1
+1994,27-Mar-94,,Ghana , Guinea,1,0,Group stage,27/03/1994,17,19,5,1
+1994,29-Mar-94,,Senegal , Guinea,2,1,Group stage,29/03/1994,33,19,5,1
+1994,31-Mar-94,,Ghana , Senegal,1,0,Group stage,31/03/1994,17,35,5,1
+1994,02-Apr-94,,Zaire , Nigeria,0,2,Quarter-finals,02/04/1994,42,33,9,-1
+1994,02-Apr-94,,Egypt , Mali,0,1,Quarter-finals,02/04/1994,12,27,9,-1
+1994,03-Apr-94,,Zambia , Senegal,1,0,Quarter-finals,03/04/1994,43,35,9,1
+1994,03-Apr-94,,Ghana , Ivory Coast,1,2,Quarter-finals,03/04/1994,17,21,9,-1
+1994,06-Apr-94,,Nigeria , Ivory Coast,2,2,Semi-finals,06/04/1994,31,21,12,0
+1994,06-Apr-94,,Zambia , Mali,4,0,Semi-finals,06/04/1994,43,27,12,1
+1994,10-Apr-94,,Ivory Coast , Mali,3,1,Third place,10/04/1994,20,27,13,1
+1994,10-Apr-94,,Nigeria , Zambia,2,1,Final,10/04/1994,31,45,0,1
+1996,13-Jan-96,,South Africa , Cameroon,3,0,Group stage,13/01/1996,35,5,2,1
+1996,15-Jan-96,,Egypt , Angola,2,1,Group stage,15/01/1996,12,1,2,1
+1996,18-Jan-96,,Cameroon , Egypt,2,1,Group stage,18/01/1996,5,13,2,1
+1996,20-Jan-96,,South Africa , Angola,1,0,Group stage,20/01/1996,35,1,2,1
+1996,24-Jan-96,,South Africa , Egypt,0,1,Group stage,24/01/1996,35,13,2,-1
+1996,24-Jan-96,,Angola , Cameroon,3,3,Group stage,24/01/1996,1,5,2,0
+1996,14-Jan-96,,Zambia , Algeria,0,0,Group stage,14/01/1996,43,0,3,0
+1996,15-Jan-96,,Sierra Leone , Burkina Faso,2,1,Group stage,15/01/1996,34,3,3,1
+1996,18-Jan-96,,Algeria , Sierra Leone,2,0,Group stage,18/01/1996,0,36,3,1
+1996,20-Jan-96,,Zambia , Burkina Faso,5,1,Group stage,20/01/1996,43,3,3,1
+1996,24-Jan-96,,Algeria , Burkina Faso,2,1,Group stage,24/01/1996,0,3,3,1
+1996,24-Jan-96,,Zambia , Sierra Leone,4,0,Group stage,24/01/1996,43,36,3,1
+1996,16-Jan-96,,Gabon , Liberia,1,2,Group stage,16/01/1996,15,23,4,-1
+1996,19-Jan-96,,Gabon , Zaire,2,0,Group stage,19/01/1996,15,44,4,1
+1996,25-Jan-96,,Zaire , Liberia,2,0,Group stage,25/01/1996,42,23,4,1
+1996,14-Jan-96,,Ghana , Ivory Coast,2,0,Group stage,14/01/1996,17,21,5,1
+1996,16-Jan-96,,Tunisia , Mozambique,1,1,Group stage,16/01/1996,39,31,5,0
+1996,19-Jan-96,,Ghana , Tunisia,2,1,Group stage,19/01/1996,17,41,5,1
+1996,21-Jan-96,,Ivory Coast , Mozambique,1,0,Group stage,21/01/1996,20,31,5,1
+1996,25-Jan-96,,Tunisia , Ivory Coast,3,1,Group stage,25/01/1996,39,21,5,1
+1996,25-Jan-96,,Ghana , Mozambique,2,0,Group stage,25/01/1996,17,31,5,1
+1996,27-Jan-96,,South Africa , Algeria,2,1,Quarter-finals,27/01/1996,35,0,9,1
+1996,27-Jan-96,,Zambia , Egypt,3,1,Quarter-finals,27/01/1996,43,13,9,1
+1996,28-Jan-96,,Gabon , Tunisia,1,1,Quarter-finals,28/01/1996,15,41,9,0
+1996,28-Jan-96,,Ghana , Zaire,1,0,Quarter-finals,28/01/1996,17,44,9,1
+1996,31-Jan-96,,South Africa , Ghana,3,0,Semi-finals,31/01/1996,35,18,12,1
+1996,31-Jan-96,,Zambia , Tunisia,2,4,Semi-finals,31/01/1996,43,41,12,-1
+1996,03-Feb-96,,Ghana , Zambia,0,1,Third place,03/02/1996,17,45,13,-1
+1996,03-Feb-96,,South Africa , Tunisia,2,0,Final,03/02/1996,35,41,0,1
+1998,07-Feb-98,16:00,Burkina Faso , Cameroon,0,1,Group stage,07/02/1998,3,5,2,-1
+1998,08-Feb-98,20:30,Algeria , Guinea,0,1,Group stage,08/02/1998,0,19,2,-1
+1998,11-Feb-98,15:00,Cameroon , Guinea,2,2,Group stage,11/02/1998,5,19,2,0
+1998,11-Feb-98,20:00,Burkina Faso , Algeria,2,1,Group stage,11/02/1998,3,0,2,1
+1998,15-Feb-98,16:00,Burkina Faso , Guinea,1,0,Group stage,15/02/1998,3,19,2,1
+1998,15-Feb-98,16:00,Cameroon , Algeria,2,1,Group stage,15/02/1998,5,0,2,1
+1998,09-Feb-98,16:00,DR Congo , Togo,2,1,Group stage,09/02/1998,10,40,3,1
+1998,09-Feb-98,20:30,Ghana , Tunisia,2,0,Group stage,09/02/1998,17,41,3,1
+1998,12-Feb-98,16:00,Tunisia , DR Congo,2,1,Group stage,12/02/1998,39,12,3,1
+1998,12-Feb-98,20:30,Togo , Ghana,2,1,Group stage,12/02/1998,38,18,3,1
+1998,16-Feb-98,17:00,DR Congo , Ghana,1,0,Group stage,16/02/1998,10,18,3,1
+1998,16-Feb-98,17:00,Tunisia , Togo,3,1,Group stage,16/02/1998,39,40,3,1
+1998,08-Feb-98,15:00,South Africa , Angola,0,0,Group stage,08/02/1998,35,1,4,0
+1998,08-Feb-98,18:00,Ivory Coast , Namibia,4,3,Group stage,08/02/1998,20,32,4,1
+1998,11-Feb-98,17:15,Ivory Coast , South Africa,1,1,Group stage,11/02/1998,20,37,4,0
+1998,12-Feb-98,18:15,Angola , Namibia,3,3,Group stage,12/02/1998,1,32,4,0
+1998,16-Feb-98,20:00,Ivory Coast , Angola,5,2,Group stage,16/02/1998,20,1,4,1
+1998,16-Feb-98,20:00,South Africa , Namibia,4,1,Group stage,16/02/1998,35,32,4,1
+1998,09-Feb-98,18:15,Morocco , Zambia,1,1,Group stage,09/02/1998,28,45,5,0
+1998,10-Feb-98,18:00,Egypt , Mozambique,2,0,Group stage,10/02/1998,12,31,5,1
+1998,13-Feb-98,17:00,Egypt , Zambia,4,0,Group stage,13/02/1998,12,45,5,1
+1998,13-Feb-98,20:00,Morocco , Mozambique,3,0,Group stage,13/02/1998,28,31,5,1
+1998,17-Feb-98,16:00,Zambia , Mozambique,3,1,Group stage,17/02/1998,43,31,5,1
+1998,17-Feb-98,16:00,Morocco , Egypt,1,0,Group stage,17/02/1998,28,13,5,1
+1998,20-Feb-98,16:00,Cameroon , DR Congo,0,1,Quarter-finals,20/02/1998,5,12,9,-1
+1998,21-Feb-98,17:00,Tunisia , Burkina Faso,1,1,Quarter-finals,21/02/1998,39,3,9,0
+1998,21-Feb-98,20:00,Ivory Coast , Egypt,0,0,Quarter-finals,21/02/1998,20,13,9,0
+1998,22-Feb-98,16:00,Morocco , South Africa,1,2,Quarter-finals,22/02/1998,28,37,9,-1
+1998,25-Feb-98,16:00,DR Congo , South Africa,1,2,Semi-finals,25/02/1998,10,37,12,-1
+1998,25-Feb-98,20:00,Burkina Faso , Egypt,0,2,Semi-finals,25/02/1998,3,13,12,-1
+1998,27-Feb-98,16:00,DR Congo , Burkina Faso,4,4,Third place,27/02/1998,10,3,13,0
+1998,28-Feb-98,16:00,South Africa , Egypt,0,2,Final,28/02/1998,35,13,0,-1
+2000,22-Jan-00,16:00,Ghana , Cameroon,1,1,Group stage,22/01/2000,17,5,2,0
+2000,24-Jan-00,16:00,Ivory Coast , Togo,1,1,Group stage,24/01/2000,20,40,2,0
+2000,27-Jan-00,16:00,Ghana , Togo,2,0,Group stage,27/01/2000,17,40,2,1
+2000,28-Jan-00,19:45,Cameroon , Ivory Coast,3,0,Group stage,28/01/2000,5,21,2,1
+2000,31-Jan-00,16:00,Ghana , Ivory Coast,0,2,Group stage,31/01/2000,17,21,2,-1
+2000,31-Jan-00,16:00,Cameroon , Togo,0,1,Group stage,31/01/2000,5,40,2,-1
+2000,23-Jan-00,19:45,South Africa , Gabon,3,1,Group stage,23/01/2000,35,16,3,1
+2000,24-Jan-00,19:45,DR Congo , Algeria,0,0,Group stage,24/01/2000,10,0,3,0
+2000,27-Jan-00,19:45,South Africa , DR Congo,1,0,Group stage,27/01/2000,35,12,3,1
+2000,29-Jan-00,19:45,Algeria , Gabon,3,1,Group stage,29/01/2000,0,16,3,1
+2000,02-Feb-00,16:00,South Africa , Algeria,1,1,Group stage,02/02/2000,35,0,3,0
+2000,02-Feb-00,16:00,DR Congo , Gabon,0,0,Group stage,02/02/2000,10,16,3,0
+2000,23-Jan-00,18:30,Egypt , Zambia,2,0,Group stage,23/01/2000,12,45,4,1
+2000,25-Jan-00,17:00,Burkina Faso , Senegal,1,3,Group stage,25/01/2000,3,35,4,-1
+2000,28-Jan-00,18:30,Egypt , Senegal,1,0,Group stage,28/01/2000,12,35,4,1
+2000,29-Jan-00,18:30,Zambia , Burkina Faso,1,1,Group stage,29/01/2000,43,3,4,0
+2000,02-Feb-00,17:00,Egypt , Burkina Faso,4,2,Group stage,02/02/2000,12,3,4,1
+2000,02-Feb-00,17:00,Zambia , Senegal,2,2,Group stage,02/02/2000,43,35,4,0
+2000,23-Jan-00,16:00,Nigeria , Tunisia,4,2,Group stage,23/01/2000,31,41,5,1
+2000,25-Jan-00,19:30,Morocco , Congo,1,0,Group stage,25/01/2000,28,8,5,1
+2000,28-Jan-00,16:00,Nigeria , Congo,0,0,Group stage,28/01/2000,31,8,5,0
+2000,29-Jan-00,16:00,Tunisia , Morocco,0,0,Group stage,29/01/2000,39,30,5,0
+2000,03-Feb-00,17:00,Nigeria , Morocco,2,0,Group stage,03/02/2000,31,30,5,1
+2000,03-Feb-00,17:00,Tunisia , Congo,1,0,Group stage,03/02/2000,39,8,5,1
+2000,06-Feb-00,16:00,Cameroon , Algeria,2,1,Quarter-finals,06/02/2000,5,0,9,1
+2000,06-Feb-00,19:30,South Africa , Ghana,1,0,Quarter-finals,06/02/2000,35,18,9,1
+2000,07-Feb-00,16:00,Egypt , Tunisia,0,1,Quarter-finals,07/02/2000,12,41,9,-1
+2000,07-Feb-00,19:00,Nigeria , Senegal,2,1,Quarter-finals,07/02/2000,31,35,9,1
+2000,10-Feb-00,16:30,Nigeria , South Africa,2,0,Semi-finals,10/02/2000,31,37,12,1
+2000,10-Feb-00,18:30,Cameroon , Tunisia,3,0,Semi-finals,10/02/2000,5,41,12,1
+2000,12-Feb-00,16:00,South Africa , Tunisia,2,2,Third place,12/02/2000,35,41,13,0
+2000,13-Feb-00,16:00,Nigeria , Cameroon,2,2,Final,13/02/2000,31,5,0,0
+2002,19-Jan-02,16:00,Mali , Liberia,1,1,Group stage,19/01/2002,26,23,2,0
+2002,21-Jan-02,16:00,Algeria , Nigeria,0,1,Group stage,21/01/2002,0,33,2,-1
+2002,24-Jan-02,19:00,Mali , Nigeria,0,0,Group stage,24/01/2002,26,33,2,0
+2002,25-Jan-02,19:30,Liberia , Algeria,2,2,Group stage,25/01/2002,22,0,2,0
+2002,28-Jan-02,18:00,Mali , Algeria,2,0,Group stage,28/01/2002,26,0,2,1
+2002,28-Jan-02,18:00,Liberia , Nigeria,0,1,Group stage,28/01/2002,22,33,2,-1
+2002,20-Jan-02,19:30,South Africa , Burkina Faso,0,0,Group stage,20/01/2002,35,3,3,0
+2002,21-Jan-02,16:00,Morocco , Ghana,0,0,Group stage,21/01/2002,28,18,3,0
+2002,24-Jan-02,16:00,South Africa , Ghana,0,0,Group stage,24/01/2002,35,18,3,0
+2002,26-Jan-02,15:30,Burkina Faso , Morocco,1,2,Group stage,26/01/2002,3,30,3,-1
+2002,30-Jan-02,16:00,South Africa , Morocco,3,1,Group stage,30/01/2002,35,30,3,1
+2002,30-Jan-02,16:00,Burkina Faso , Ghana,1,2,Group stage,30/01/2002,3,18,3,-1
+2002,20-Jan-02,17:30,Cameroon , DR Congo,1,0,Group stage,20/01/2002,5,12,4,1
+2002,21-Jan-02,18:00,Togo , Ivory Coast,0,0,Group stage,21/01/2002,38,21,4,0
+2002,25-Jan-02,17:30,Cameroon , Ivory Coast,1,0,Group stage,25/01/2002,5,21,4,1
+2002,26-Jan-02,17:30,DR Congo , Togo,0,0,Group stage,26/01/2002,10,40,4,0
+2002,29-Jan-02,16:00,Cameroon , Togo,3,0,Group stage,29/01/2002,5,40,4,1
+2002,29-Jan-02,16:00,DR Congo , Ivory Coast,3,1,Group stage,29/01/2002,10,21,4,1
+2002,20-Jan-02,15:30,Egypt , Senegal,0,1,Group stage,20/01/2002,12,35,5,-1
+2002,21-Jan-02,19:00,Zambia , Tunisia,0,0,Group stage,21/01/2002,43,41,5,0
+2002,25-Jan-02,15:30,Egypt , Tunisia,1,0,Group stage,25/01/2002,12,41,5,1
+2002,26-Jan-02,19:30,Senegal , Zambia,1,0,Group stage,26/01/2002,33,45,5,1
+2002,31-Jan-02,16:00,Egypt , Zambia,2,1,Group stage,31/01/2002,12,45,5,1
+2002,31-Jan-02,16:00,Senegal , Tunisia,0,0,Group stage,31/01/2002,33,41,5,0
+2002,03-Feb-02,16:00,South Africa , Mali,0,2,Quarter-finals,03/02/2002,35,27,9,-1
+2002,03-Feb-02,19:00,Nigeria , Ghana,1,0,Quarter-finals,03/02/2002,31,18,9,1
+2002,04-Feb-02,16:00,Cameroon , Egypt,1,0,Quarter-finals,04/02/2002,5,13,9,1
+2002,04-Feb-02,19:00,Senegal , DR Congo,2,0,Quarter-finals,04/02/2002,33,12,9,1
+2002,07-Feb-02,16:00,Nigeria , Senegal,1,2,Semi-finals,07/02/2002,31,35,12,-1
+2002,07-Feb-02,19:00,Mali , Cameroon,0,3,Semi-finals,07/02/2002,26,5,12,-1
+2002,09-Feb-02,16:00,Nigeria , Mali,1,0,Third place,09/02/2002,31,27,13,1
+2002,10-Feb-02,16:00,Senegal , Cameroon,0,0,Final,10/02/2002,33,5,0,0
+2004,24-Jan-04,19:30,Tunisia , Rwanda,2,1,Group stage,24/01/2004,39,34,2,1
+2004,25-Jan-04,14:00,DR Congo , Guinea,1,2,Group stage,25/01/2004,10,19,2,-1
+2004,28-Jan-04,14:00,Rwanda , Guinea,1,1,Group stage,28/01/2004,32,19,2,0
+2004,28-Jan-04,16:15,Tunisia , DR Congo,3,0,Group stage,28/01/2004,39,12,2,1
+2004,01-Feb-04,14:00,Tunisia , Guinea,1,1,Group stage,01/02/2004,39,19,2,0
+2004,01-Feb-04,14:00,Rwanda , DR Congo,1,0,Group stage,01/02/2004,32,12,2,1
+2004,26-Jan-04,14:00,Kenya , Mali,1,3,Group stage,26/01/2004,21,27,3,-1
+2004,26-Jan-04,19:00,Senegal , Burkina Faso,0,0,Group stage,26/01/2004,33,3,3,0
+2004,30-Jan-04,14:00,Senegal , Kenya,3,0,Group stage,30/01/2004,33,22,3,1
+2004,30-Jan-04,19:00,Burkina Faso , Mali,1,3,Group stage,30/01/2004,3,27,3,-1
+2004,02-Feb-04,14:00,Senegal , Mali,1,1,Group stage,02/02/2004,33,27,3,0
+2004,02-Feb-04,14:00,Burkina Faso , Kenya,0,3,Group stage,02/02/2004,3,22,3,-1
+2004,25-Jan-04,16:30,Zimbabwe , Egypt,1,2,Group stage,25/01/2004,44,13,4,-1
+2004,25-Jan-04,19:00,Cameroon , Algeria,1,1,Group stage,25/01/2004,5,0,4,0
+2004,29-Jan-04,16:30,Cameroon , Zimbabwe,5,3,Group stage,29/01/2004,5,46,4,1
+2004,29-Jan-04,19:00,Algeria , Egypt,2,1,Group stage,29/01/2004,0,13,4,1
+2004,03-Feb-04,14:00,Cameroon , Egypt,0,0,Group stage,03/02/2004,5,13,4,0
+2004,03-Feb-04,14:00,Algeria , Zimbabwe,1,2,Group stage,03/02/2004,0,46,4,-1
+2004,27-Jan-04,14:00,Nigeria , Morocco,0,1,Group stage,27/01/2004,31,30,5,-1
+2004,27-Jan-04,18:00,South Africa , Benin,2,0,Group stage,27/01/2004,35,2,5,1
+2004,31-Jan-04,14:00,Nigeria , South Africa,4,0,Group stage,31/01/2004,31,37,5,1
+2004,31-Jan-04,18:00,Morocco , Benin,4,0,Group stage,31/01/2004,28,2,5,1
+2004,04-Feb-04,18:00,Morocco , South Africa,1,1,Group stage,04/02/2004,28,37,5,0
+2004,04-Feb-04,18:00,Nigeria , Benin,2,1,Group stage,04/02/2004,31,2,5,1
+2004,07-Feb-04,14:00,Mali , Guinea,2,1,Quarter-finals,07/02/2004,26,19,8,1
+2004,07-Feb-04,17:00,Tunisia , Senegal,1,0,Quarter-finals,07/02/2004,39,35,8,1
+2004,08-Feb-04,14:00,Cameroon , Nigeria,1,2,Quarter-finals,08/02/2004,5,33,8,-1
+2004,08-Feb-04,17:00,Morocco , Algeria,3,1,Quarter-finals,08/02/2004,28,0,8,1
+2004,11-Feb-04,16:00,Tunisia , Nigeria,1,1,Semi-finals,11/02/2004,39,33,11,0
+2004,11-Feb-04,19:00,Morocco , Mali,4,0,Semi-finals,11/02/2004,28,27,11,1
+2004,13-Feb-04,20:00,Nigeria , Mali,2,1,Third place,13/02/2004,31,27,13,1
+2004,14-Feb-04,14:30,Tunisia , Morocco,2,1,Final,14/02/2004,39,30,0,1
+2006,20-Jan-06,19:00,Egypt , Libya,3,0,Group stage,20/01/2006,12,24,2,1
+2006,21-Jan-06,14:00,Morocco , Ivory Coast,0,1,Group stage,21/01/2006,28,21,2,-1
+2006,24-Jan-06,17:15,Libya , Ivory Coast,1,2,Group stage,24/01/2006,23,21,2,-1
+2006,24-Jan-06,20:00,Egypt , Morocco,0,0,Group stage,24/01/2006,12,30,2,0
+2006,28-Jan-06,19:00,Egypt , Ivory Coast,3,1,Group stage,28/01/2006,12,21,2,1
+2006,28-Jan-06,19:00,Libya , Morocco,0,0,Group stage,28/01/2006,23,30,2,0
+2006,21-Jan-06,17:15,Cameroon , Angola,3,1,Group stage,21/01/2006,5,1,3,1
+2006,21-Jan-06,20:00,Togo , DR Congo,0,2,Group stage,21/01/2006,38,12,3,-1
+2006,25-Jan-06,17:15,Angola , DR Congo,0,0,Group stage,25/01/2006,1,12,3,0
+2006,25-Jan-06,20:00,Cameroon , Togo,2,0,Group stage,25/01/2006,5,40,3,1
+2006,29-Jan-06,19:00,Angola , Togo,3,2,Group stage,29/01/2006,1,40,3,1
+2006,29-Jan-06,19:00,Cameroon , DR Congo,2,0,Group stage,29/01/2006,5,12,3,1
+2006,22-Jan-06,17:15,Tunisia , Zambia,4,1,Group stage,22/01/2006,39,45,4,1
+2006,22-Jan-06,20:00,South Africa , Guinea,0,2,Group stage,22/01/2006,35,19,4,-1
+2006,26-Jan-06,17:15,Zambia , Guinea,1,2,Group stage,26/01/2006,43,19,4,-1
+2006,26-Jan-06,20:00,Tunisia , South Africa,2,0,Group stage,26/01/2006,39,37,4,1
+2006,30-Jan-06,19:00,Tunisia , Guinea,0,3,Group stage,30/01/2006,39,19,4,-1
+2006,30-Jan-06,19:00,Zambia , South Africa,1,0,Group stage,30/01/2006,43,37,4,1
+2006,23-Jan-06,17:15,Nigeria , Ghana,1,0,Group stage,23/01/2006,31,18,5,1
+2006,23-Jan-06,20:00,Zimbabwe , Senegal,0,2,Group stage,23/01/2006,44,35,5,-1
+2006,27-Jan-06,17:15,Ghana , Senegal,1,0,Group stage,27/01/2006,17,35,5,1
+2006,27-Jan-06,20:00,Nigeria , Zimbabwe,2,0,Group stage,27/01/2006,31,46,5,1
+2006,31-Jan-06,19:00,Nigeria , Senegal,2,1,Group stage,31/01/2006,31,35,5,1
+2006,31-Jan-06,19:00,Ghana , Zimbabwe,1,2,Group stage,31/01/2006,17,46,5,-1
+2006,03-Feb-06,15:00,Guinea , Senegal,2,3,Quarter-finals,03/02/2006,18,35,8,-1
+2006,03-Feb-06,19:00,Egypt , DR Congo,4,1,Quarter-finals,03/02/2006,12,12,8,1
+2006,04-Feb-06,15:00,Nigeria , Tunisia,1,1,Quarter-finals,04/02/2006,31,41,8,0
+2006,04-Feb-06,19:00,Cameroon , Ivory Coast,1,1,Quarter-finals,04/02/2006,5,21,8,0
+2006,07-Feb-06,19:00,Egypt , Senegal,2,1,Semi-finals,07/02/2006,12,35,11,1
+2006,07-Feb-06,15:00,Nigeria , Ivory Coast,0,1,Semi-finals,07/02/2006,31,21,11,-1
+2006,09-Feb-06,18:00,Senegal , Nigeria,0,1,Third place,09/02/2006,33,33,15,-1
+2006,10-Feb-06,18:00,Egypt , Ivory Coast,0,0,Final,10/02/2006,12,21,0,0
+2008,20-Jan-08,17:00,Ghana , Guinea,2,1,Group stage,20/01/2008,17,19,2,1
+2008,21-Jan-08,15:00,Namibia , Morocco,1,5,Group stage,21/01/2008,30,30,2,-1
+2008,24-Jan-08,17:00,Guinea , Morocco,3,2,Group stage,24/01/2008,18,30,2,1
+2008,24-Jan-08,19:30,Ghana , Namibia,1,0,Group stage,24/01/2008,17,32,2,1
+2008,28-Jan-08,17:00,Ghana , Morocco,2,0,Group stage,28/01/2008,17,30,2,1
+2008,28-Jan-08,17:00,Guinea , Namibia,1,1,Group stage,28/01/2008,18,32,2,0
+2008,21-Jan-08,17:00,Nigeria , Ivory Coast,0,1,Group stage,21/01/2008,31,21,3,-1
+2008,21-Jan-08,19:45[7],Mali , Benin,1,0,Group stage,21/01/2008,26,2,3,1
+2008,25-Jan-08,17:00,Ivory Coast , Benin,4,1,Group stage,25/01/2008,20,2,3,1
+2008,25-Jan-08,19:30,Nigeria , Mali,0,0,Group stage,25/01/2008,31,27,3,0
+2008,29-Jan-08,17:00,Nigeria , Benin,2,0,Group stage,29/01/2008,31,2,3,1
+2008,29-Jan-08,17:00,Ivory Coast , Mali,3,0,Group stage,29/01/2008,20,27,3,1
+2008,22-Jan-08,17:00,Egypt , Cameroon,4,2,Group stage,22/01/2008,12,5,4,1
+2008,22-Jan-08,19:30,Sudan , Zambia,0,3,Group stage,22/01/2008,36,45,4,-1
+2008,26-Jan-08,17:00,Cameroon , Zambia,5,1,Group stage,26/01/2008,5,45,4,1
+2008,26-Jan-08,19:30,Egypt , Sudan,3,0,Group stage,26/01/2008,12,38,4,1
+2008,30-Jan-08,17:00,Cameroon , Sudan,3,0,Group stage,30/01/2008,5,38,4,1
+2008,30-Jan-08,17:00,Egypt , Zambia,1,1,Group stage,30/01/2008,12,45,4,0
+2008,23-Jan-08,17:00,Tunisia , Senegal,2,2,Group stage,23/01/2008,39,35,5,0
+2008,23-Jan-08,19:30,South Africa , Angola,1,1,Group stage,23/01/2008,35,1,5,0
+2008,27-Jan-08,17:00,Senegal , Angola,1,3,Group stage,27/01/2008,33,1,5,-1
+2008,27-Jan-08,19:30,Tunisia , South Africa,3,1,Group stage,27/01/2008,39,37,5,1
+2008,31-Jan-08,17:00,Senegal , South Africa,1,1,Group stage,31/01/2008,33,37,5,0
+2008,31-Jan-08,17:00,Tunisia , Angola,0,0,Group stage,31/01/2008,39,1,5,0
+2008,03-Feb-08,17:00,Ghana , Nigeria,2,1,Quarter-finals,03/02/2008,17,33,8,1
+2008,03-Feb-08,20:30,Ivory Coast , Guinea,5,0,Quarter-finals,03/02/2008,20,19,8,1
+2008,04-Feb-08,17:00,Egypt , Angola,2,1,Quarter-finals,04/02/2008,12,1,8,1
+2008,04-Feb-08,20:30,Tunisia , Cameroon,2,3,Quarter-finals,04/02/2008,39,5,8,-1
+2008,07-Feb-08,17:00,Ghana , Cameroon,0,1,Semi-finals,07/02/2008,17,5,11,-1
+2008,07-Feb-08,20:30,Ivory Coast , Egypt,1,4,Semi-finals,07/02/2008,20,13,11,-1
+2008,09-Feb-08,17:00,Ghana , Ivory Coast,4,2,Third place,09/02/2008,17,21,13,1
+2008,10-Feb-08,17:00,Cameroon , Egypt,0,1,Final,10/02/2008,5,13,0,-1
+2010,10-Jan-10,20:00,Angola , Mali,4,4,Group stage,10/01/2010,1,27,2,0
+2010,11-Jan-10,14:45,Malawi , Algeria,3,0,Group stage,11/01/2010,25,0,2,1
+2010,14-Jan-10,17:00,Mali , Algeria,0,1,Group stage,14/01/2010,26,0,2,-1
+2010,14-Jan-10,19:30,Angola , Malawi,2,0,Group stage,14/01/2010,1,26,2,1
+2010,18-Jan-10,17:00,Angola , Algeria,0,0,Group stage,18/01/2010,1,0,2,0
+2010,18-Jan-10,17:00,Mali , Malawi,3,1,Group stage,18/01/2010,26,26,2,1
+2010,11-Jan-10,17:00,Ivory Coast , Burkina Faso,0,0,Group stage,11/01/2010,20,3,3,0
+2010,15-Jan-10,19:30,Ivory Coast , Ghana,3,1,Group stage,15/01/2010,20,18,3,1
+2010,19-Jan-10,17:00,Burkina Faso , Ghana,0,1,Group stage,19/01/2010,3,18,3,-1
+2010,12-Jan-10,17:00,Egypt , Nigeria,3,1,Group stage,12/01/2010,12,33,4,1
+2010,12-Jan-10,19:30,Mozambique , Benin,2,2,Group stage,12/01/2010,29,2,4,0
+2010,16-Jan-10,17:00,Nigeria , Benin,1,0,Group stage,16/01/2010,31,2,4,1
+2010,16-Jan-10,19:30,Egypt , Mozambique,2,0,Group stage,16/01/2010,12,31,4,1
+2010,20-Jan-10,17:00,Egypt , Benin,2,0,Group stage,20/01/2010,12,2,4,1
+2010,20-Jan-10,17:00,Nigeria , Mozambique,3,0,Group stage,20/01/2010,31,31,4,1
+2010,13-Jan-10,17:00,Cameroon , Gabon,0,1,Group stage,13/01/2010,5,16,5,-1
+2010,13-Jan-10,19:30,Zambia , Tunisia,1,1,Group stage,13/01/2010,43,41,5,0
+2010,17-Jan-10,17:00,Gabon , Tunisia,0,0,Group stage,17/01/2010,15,41,5,0
+2010,17-Jan-10,19:30,Cameroon , Zambia,3,2,Group stage,17/01/2010,5,45,5,1
+2010,21-Jan-10,17:00,Gabon , Zambia,1,2,Group stage,21/01/2010,15,45,5,-1
+2010,21-Jan-10,17:00,Cameroon , Tunisia,2,2,Group stage,21/01/2010,5,41,5,0
+2010,24-Jan-10,17:00,Angola , Ghana,0,1,Quarter-finals,24/01/2010,1,18,8,-1
+2010,24-Jan-10,20:30,Ivory Coast , Algeria,2,3,Quarter-finals,24/01/2010,20,0,8,-1
+2010,25-Jan-10,17:00,Egypt , Cameroon,3,1,Quarter-finals,25/01/2010,12,5,8,1
+2010,25-Jan-10,20:30,Zambia , Nigeria,0,0,Quarter-finals,25/01/2010,43,33,8,0
+2010,28-Jan-10,16:00,Ghana , Nigeria,1,0,Semi-finals,28/01/2010,17,33,11,1
+2010,28-Jan-10,20:30,Algeria , Egypt,0,4,Semi-finals,28/01/2010,0,13,11,-1
+2010,30-Jan-10,17:00,Nigeria , Algeria,1,0,Third place,30/01/2010,31,0,14,1
+2010,31-Jan-10,17:00,Ghana , Egypt,0,1,Final,31/01/2010,17,13,0,-1
+2012,04-Feb-12,17:00,Zambia , Sudan,3,0,Quarter-finals,04/02/2012,43,38,9,1
+2012,04-Feb-12,20:00,Ivory Coast , Equatorial Guinea,3,0,Quarter-finals,04/02/2012,20,14,9,1
+2012,05-Feb-12,17:00,Gabon , Mali,1,1,Quarter-finals,05/02/2012,15,27,9,0
+2012,05-Feb-12,20:00,Ghana , Tunisia,2,1,Quarter-finals,05/02/2012,17,41,9,1
+2012,08-Feb-12,17:00,Zambia , Ghana,1,0,Semi-finals,08/02/2012,43,18,12,1
+2012,08-Feb-12,20:00,Mali , Ivory Coast,0,1,Semi-finals,08/02/2012,26,21,12,-1
+2012,11-Feb-12,20:00,Ghana , Mali,0,2,Third place,11/02/2012,17,27,13,-1
+2012,12-Feb-12,20:30[note 1],Zambia , Ivory Coast,0,0,Final,12/02/2012,43,21,0,0
+2013,02-Feb-13,17:00,Ghana , Cape Verde,2,0,Quarter-finals,02/02/2013,17,6,8,1
+2013,02-Feb-13,20:30,South Africa , Mali,1,1,Quarter-finals,02/02/2013,35,27,8,0
+2013,03-Feb-13,17:00,Ivory Coast , Nigeria,1,2,Quarter-finals,03/02/2013,20,33,8,-1
+2013,03-Feb-13,20:30,Burkina Faso , Togo,1,0,Quarter-finals,03/02/2013,3,40,8,1
+2013,06-Feb-13,17:00,Mali , Nigeria,1,4,Semi-finals,06/02/2013,26,33,11,-1
+2013,06-Feb-13,20:30,Burkina Faso , Ghana,1,1,Semi-finals,06/02/2013,3,18,11,0
+2013,09-Feb-13,20:00,Mali , Ghana,3,1,Third place,09/02/2013,26,18,14,1
+2013,10-Feb-13,20:30,Nigeria , Burkina Faso,1,0,Final,10/02/2013,31,3,0,1
+2015,31-Jan-15,17:00,Congo , DR Congo,2,4,Quarter-finals,31/01/2015,8,12,8,-1
+2015,31-Jan-15,20:30,Tunisia , Equatorial Guinea,1,2,Quarter-finals,31/01/2015,39,14,8,-1
+2015,01-Feb-15,17:00,Ghana , Guinea,3,0,Quarter-finals,01/02/2015,17,19,8,1
+2015,01-Feb-15,20:30,Ivory Coast , Algeria,3,1,Quarter-finals,01/02/2015,20,0,8,1
+2015,04-Feb-15,20:00,DR Congo , Ivory Coast,1,3,Semi-finals,04/02/2015,10,21,11,-1
+2015,05-Feb-15,20:00,Ghana , Equatorial Guinea,3,0,Semi-finals,05/02/2015,17,14,11,1
+2015,07-Feb-15,17:00,DR Congo , Equatorial Guinea,0,0,Third place,07/02/2015,10,14,14,0
+2015,08-Feb-15,20:00,Ivory Coast , Ghana,0,0,Final,08/02/2015,20,18,0,0
+2017,14 January 2017 (2017-01-14),17:00,Gabon , Guinea-Bissau,1,1,Group stage,,15,20,2,0
+2017,14 January 2017 (2017-01-14),20:00,Burkina Faso , Cameroon,1,1,Group stage,,3,5,2,0
+2017,18 January 2017 (2017-01-18),17:00,Gabon , Burkina Faso,1,1,Group stage,,15,3,2,0
+2017,18 January 2017 (2017-01-18),20:00,Cameroon , Guinea-Bissau,2,1,Group stage,,5,20,2,1
+2017,22 January 2017 (2017-01-22),20:00,Cameroon , Gabon,0,0,Group stage,,5,16,2,0
+2017,22 January 2017 (2017-01-22),20:00,Guinea-Bissau , Burkina Faso,0,2,Group stage,,19,3,2,-1
+2017,15 January 2017 (2017-01-15),17:00,Algeria , Zimbabwe,2,2,Group stage,,0,46,3,0
+2017,15 January 2017 (2017-01-15),20:00,Tunisia , Senegal,0,2,Group stage,,39,35,3,-1
+2017,19 January 2017 (2017-01-19),17:00,Algeria , Tunisia,1,2,Group stage,,0,41,3,-1
+2017,19 January 2017 (2017-01-19),20:00,Senegal , Zimbabwe,2,0,Group stage,,33,46,3,1
+2017,23 January 2017 (2017-01-23),20:00,Senegal , Algeria,2,2,Group stage,,33,0,3,0
+2017,23 January 2017 (2017-01-23),20:00,Zimbabwe , Tunisia,2,4,Group stage,,44,41,3,-1
+2017,16 January 2017 (2017-01-16),17:00,Ivory Coast , Togo,0,0,Group stage,,20,40,4,0
+2017,16 January 2017 (2017-01-16),20:00,DR Congo , Morocco,1,0,Group stage,,10,30,4,1
+2017,20 January 2017 (2017-01-20),17:00,Ivory Coast , DR Congo,2,2,Group stage,,20,12,4,0
+2017,20 January 2017 (2017-01-20),20:00,Morocco , Togo,3,1,Group stage,,28,40,4,1
+2017,24 January 2017 (2017-01-24),20:00,Morocco , Ivory Coast,1,0,Group stage,,28,21,4,1
+2017,24 January 2017 (2017-01-24),20:00,Togo , DR Congo,1,3,Group stage,,38,12,4,-1
+2017,17 January 2017 (2017-01-17),17:00,Ghana , Uganda,1,0,Group stage,,17,42,5,1
+2017,17 January 2017 (2017-01-17),20:00,Mali , Egypt,0,0,Group stage,,26,13,5,0
+2017,21 January 2017 (2017-01-21),17:00,Ghana , Mali,1,0,Group stage,,17,27,5,1
+2017,21 January 2017 (2017-01-21),20:00,Egypt , Uganda,1,0,Group stage,,12,42,5,1
+2017,25 January 2017 (2017-01-25),20:00,Egypt , Ghana,1,0,Group stage,,12,18,5,1
+2017,25 January 2017 (2017-01-25),20:00,Uganda , Mali,1,1,Group stage,,40,27,5,0
+2017,28 January 2017 (2017-01-28),17:00,Burkina Faso , Tunisia,2,0,Quarter-finals,,3,41,8,1
+2017,28 January 2017 (2017-01-28),20:00,Senegal , Cameroon,0,0,Quarter-finals,,33,5,8,0
+2017,29 January 2017 (2017-01-29),17:00,DR Congo , Ghana,1,2,Quarter-finals,,10,18,8,-1
+2017,29 January 2017 (2017-01-29),20:00,Egypt , Morocco,1,0,Quarter-finals,,12,30,8,1
+2017,1 February 2017 (2017-02-01),20:00,Burkina Faso , Egypt,1,1,Semi-finals,,3,13,11,0
+2017,2 February 2017 (2017-02-02),20:00,Cameroon , Ghana,2,0,Semi-finals,,5,18,11,1
+2017,4 February 2017 (2017-02-04),20:00,Burkina Faso , Ghana,1,0,Third place,,3,18,14,1
+2017,5 February 2017 (2017-02-05),20:00,Egypt , Cameroon,1,2,Final,,12,5,0,-1
+2019,21 June 2019 (2019-06-21),22:00,Egypt , Zimbabwe,1,0,Group stage,,12,46,2,1
+2019,22 June 2019 (2019-06-22),16:30,DR Congo , Uganda,0,2,Group stage,,10,42,2,-1
+2019,26 June 2019 (2019-06-26),19:00,Uganda , Zimbabwe,1,1,Group stage,,40,46,2,0
+2019,26 June 2019 (2019-06-26),22:00,Egypt , DR Congo,2,0,Group stage,,12,12,2,1
+2019,30 June 2019 (2019-06-30),21:00,Uganda , Egypt,0,2,Group stage,,40,13,2,-1
+2019,30 June 2019 (2019-06-30),21:00,Zimbabwe , DR Congo,0,4,Group stage,,44,12,2,-1
+2019,22 June 2019 (2019-06-22),19:00,Nigeria , Burundi,1,0,Group stage,,31,4,3,1
+2019,22 June 2019 (2019-06-22),22:00,Guinea , Madagascar,2,2,Group stage,,18,25,3,0
+2019,26 June 2019 (2019-06-26),16:30,Nigeria , Guinea,1,0,Group stage,,31,19,3,1
+2019,27 June 2019 (2019-06-27),16:30,Madagascar , Burundi,1,0,Group stage,,24,4,3,1
+2019,30 June 2019 (2019-06-30),18:00,Madagascar , Nigeria,2,0,Group stage,,24,33,3,1
+2019,30 June 2019 (2019-06-30),18:00,Burundi , Guinea,0,2,Group stage,,4,19,3,-1
+2019,23 June 2019 (2019-06-23),19:00,Senegal , Tanzania,2,0,Group stage,,33,39,4,1
+2019,23 June 2019 (2019-06-23),22:00,Algeria , Kenya,2,0,Group stage,,0,22,4,1
+2019,27 June 2019 (2019-06-27),19:00,Senegal , Algeria,0,1,Group stage,,33,0,4,-1
+2019,27 June 2019 (2019-06-27),22:00,Kenya , Tanzania,3,2,Group stage,,21,39,4,1
+2019,1 July 2019 (2019-07-01),21:00,Kenya , Senegal,0,3,Group stage,,21,35,4,-1
+2019,1 July 2019 (2019-07-01),21:00,Tanzania , Algeria,0,3,Group stage,,37,0,4,-1
+2019,23 June 2019 (2019-06-23),16:30,Morocco , Namibia,1,0,Group stage,,28,32,5,1
+2019,24 June 2019 (2019-06-24),16:30,Ivory Coast , South Africa,1,0,Group stage,,20,37,5,1
+2019,28 June 2019 (2019-06-28),19:00,Morocco , Ivory Coast,1,0,Group stage,,28,21,5,1
+2019,28 June 2019 (2019-06-28),22:00,South Africa , Namibia,1,0,Group stage,,35,32,5,1
+2019,1 July 2019 (2019-07-01),18:00,South Africa , Morocco,0,1,Group stage,,35,30,5,-1
+2019,1 July 2019 (2019-07-01),18:00,Namibia , Ivory Coast,1,4,Group stage,,30,21,5,-1
+2019,24 June 2019 (2019-06-24),19:00,Tunisia , Angola,1,1,Group stage,,39,1,6,0
+2019,24 June 2019 (2019-06-24),22:00,Mali , Mauritania,4,1,Group stage,,26,28,6,1
+2019,28 June 2019 (2019-06-28),16:30,Tunisia , Mali,1,1,Group stage,,39,27,6,0
+2019,29 June 2019 (2019-06-29),16:30,Mauritania , Angola,0,0,Group stage,,27,1,6,0
+2019,2 July 2019 (2019-07-02),21:00,Mauritania , Tunisia,0,0,Group stage,,27,41,6,0
+2019,2 July 2019 (2019-07-02),21:00,Angola , Mali,0,1,Group stage,,1,27,6,-1
+2019,25 June 2019 (2019-06-25),19:00,Cameroon , Guinea-Bissau,2,0,Group stage,,5,20,7,1
+2019,25 June 2019 (2019-06-25),22:00,Ghana , Benin,2,2,Group stage,,17,2,7,0
+2019,29 June 2019 (2019-06-29),19:00,Cameroon , Ghana,0,0,Group stage,,5,18,7,0
+2019,29 June 2019 (2019-06-29),22:00,Benin , Guinea-Bissau,0,0,Group stage,,2,20,7,0
+2019,2 July 2019 (2019-07-02),18:00,Benin , Cameroon,0,0,Group stage,,2,5,7,0
+2019,2 July 2019 (2019-07-02),18:00,Guinea-Bissau , Ghana,0,2,Group stage,,19,18,7,-1
+2019,5 July 2019 (2019-07-05),18:00,Morocco , Benin,1,1,Round of 16,,28,2,10,0
+2019,5 July 2019 (2019-07-05),21:00,Uganda , Senegal,0,1,Round of 16,,40,35,10,-1
+2019,6 July 2019 (2019-07-06),18:00,Nigeria , Cameroon,3,2,Round of 16,,31,5,10,1
+2019,6 July 2019 (2019-07-06),21:00,Egypt , South Africa,0,1,Round of 16,,12,37,10,-1
+2019,7 July 2019 (2019-07-07),18:00,Madagascar , DR Congo,2,2,Round of 16,,24,12,10,0
+2019,7 July 2019 (2019-07-07),21:00,Algeria , Guinea,3,0,Round of 16,,0,19,10,1
+2019,8 July 2019 (2019-07-08),18:00,Mali , Ivory Coast,0,1,Round of 16,,26,21,10,-1
+2019,8 July 2019 (2019-07-08),21:00,Ghana , Tunisia,1,1,Round of 16,,17,41,10,0
+2019,10 July 2019 (2019-07-10),18:00,Senegal , Benin,1,0,Quarter-finals,,33,2,8,1
+2019,10 July 2019 (2019-07-10),21:00,Nigeria , South Africa,2,1,Quarter-finals,,31,37,8,1
+2019,11 July 2019 (2019-07-11),18:00,Ivory Coast , Algeria,1,1,Quarter-finals,,20,0,8,0
+2019,11 July 2019 (2019-07-11),21:00,Madagascar , Tunisia,0,3,Quarter-finals,,24,41,8,-1
+2019,14 July 2019 (2019-07-14),18:00,Senegal , Tunisia,1,0,Semi-finals,,33,41,11,1
+2019,14 July 2019 (2019-07-14),21:00,Algeria , Nigeria,2,1,Semi-finals,,0,33,11,1
+2019,17 July 2019 (2019-07-17),21:00,Tunisia , Nigeria,0,1,Third place,,39,33,14,-1
+2019,19 July 2019 (2019-07-19),21:00,Senegal , Algeria,0,1,Final,,33,0,0,-1
+2022,9 January 2022 (2022-01-09),17:00,Cameroon , Burkina Faso,2,1,Group stage,,5,3,2,1
+2022,9 January 2022 (2022-01-09),20:00,Ethiopia , Cape Verde,0,1,Group stage,,14,6,2,-1
+2022,13 January 2022 (2022-01-13),17:00,Cameroon , Ethiopia,4,1,Group stage,,5,15,2,1
+2022,13 January 2022 (2022-01-13),20:00,Cape Verde , Burkina Faso,0,1,Group stage,,6,3,2,-1
+2022,17 January 2022 (2022-01-17),17:00,Cape Verde , Cameroon,1,1,Group stage,,6,5,2,0
+2022,17 January 2022 (2022-01-17),17:00,Burkina Faso , Ethiopia,1,1,Group stage,,3,15,2,0
+2022,10 January 2022 (2022-01-10),14:00,Senegal , Zimbabwe,1,0,Group stage,,33,46,3,1
+2022,10 January 2022 (2022-01-10),17:00,Guinea , Malawi,1,0,Group stage,,18,26,3,1
+2022,14 January 2022 (2022-01-14),14:00,Senegal , Guinea,0,0,Group stage,,33,19,3,0
+2022,14 January 2022 (2022-01-14),17:00,Malawi , Zimbabwe,2,1,Group stage,,25,46,3,1
+2022,18 January 2022 (2022-01-18),17:00,Malawi , Senegal,0,0,Group stage,,25,35,3,0
+2022,18 January 2022 (2022-01-18),17:00,Zimbabwe , Guinea,2,1,Group stage,,44,19,3,1
+2022,10 January 2022 (2022-01-10),17:00,Morocco , Ghana,1,0,Group stage,,28,18,4,1
+2022,10 January 2022 (2022-01-10),20:00,Comoros , Gabon,0,1,Group stage,,7,16,4,-1
+2022,14 January 2022 (2022-01-14),17:00,Morocco , Comoros,2,0,Group stage,,28,7,4,1
+2022,14 January 2022 (2022-01-14),20:00,Gabon , Ghana,1,1,Group stage,,15,18,4,0
+2022,18 January 2022 (2022-01-18),20:00,Gabon , Morocco,2,2,Group stage,,15,30,4,0
+2022,18 January 2022 (2022-01-18),20:00,Ghana , Comoros,2,3,Group stage,,17,7,4,-1
+2022,11 January 2022 (2022-01-11),17:00,Nigeria , Egypt,1,0,Group stage,,31,13,5,1
+2022,11 January 2022 (2022-01-11),20:00,Sudan , Guinea-Bissau,0,0,Group stage,,36,20,5,0
+2022,15 January 2022 (2022-01-15),17:00,Nigeria , Sudan,3,1,Group stage,,31,38,5,1
+2022,15 January 2022 (2022-01-15),20:00,Guinea-Bissau , Egypt,0,1,Group stage,,19,13,5,-1
+2022,19 January 2022 (2022-01-19),20:00,Guinea-Bissau , Nigeria,0,2,Group stage,,19,33,5,-1
+2022,19 January 2022 (2022-01-19),20:00,Egypt , Sudan,1,0,Group stage,,12,38,5,1
+2022,11 January 2022 (2022-01-11),14:00,Algeria , Sierra Leone,0,0,Group stage,,0,36,6,0
+2022,12 January 2022 (2022-01-12),20:00,Equatorial Guinea , Ivory Coast,0,1,Group stage,,13,21,6,-1
+2022,16 January 2022 (2022-01-16),17:00,Ivory Coast , Sierra Leone,2,2,Group stage,,20,36,6,0
+2022,16 January 2022 (2022-01-16),20:00,Algeria , Equatorial Guinea,0,1,Group stage,,0,14,6,-1
+2022,20 January 2022 (2022-01-20),17:00,Ivory Coast , Algeria,3,1,Group stage,,20,0,6,1
+2022,20 January 2022 (2022-01-20),17:00,Sierra Leone , Equatorial Guinea,0,1,Group stage,,34,14,6,-1
+2022,12 January 2022 (2022-01-12),14:00,Tunisia , Mali,0,1,Group stage,,39,27,7,-1
+2022,12 January 2022 (2022-01-12),17:45[note 1],Mauritania , Gambia,0,1,Group stage,,27,17,7,-1
+2022,16 January 2022 (2022-01-16),14:00,Gambia , Mali,1,1,Group stage,,16,27,7,0
+2022,16 January 2022 (2022-01-16),17:00,Tunisia , Mauritania,4,0,Group stage,,39,28,7,1
+2022,20 January 2022 (2022-01-20),20:00,Gambia , Tunisia,1,0,Group stage,,16,41,7,1
+2022,20 January 2022 (2022-01-20),20:00,Mali , Mauritania,2,0,Group stage,,26,28,7,1
+2022,23 January 2022 (2022-01-23),17:00,Burkina Faso , Gabon,1,1,Round of 16,,3,16,10,0
+2022,23 January 2022 (2022-01-23),20:00,Nigeria , Tunisia,0,1,Round of 16,,31,41,10,-1
+2022,24 January 2022 (2022-01-24),17:00,Guinea , Gambia,0,1,Round of 16,,18,17,10,-1
+2022,24 January 2022 (2022-01-24),20:00,Cameroon , Comoros,2,1,Round of 16,,5,7,10,1
+2022,25 January 2022 (2022-01-25),17:00,Senegal , Cape Verde,2,0,Round of 16,,33,6,10,1
+2022,25 January 2022 (2022-01-25),20:00,Morocco , Malawi,2,1,Round of 16,,28,26,10,1
+2022,26 January 2022 (2022-01-26),17:00,Ivory Coast , Egypt,0,0,Round of 16,,20,13,10,0
+2022,26 January 2022 (2022-01-26),20:00,Mali , Equatorial Guinea,0,0,Round of 16,,26,14,10,0
+2022,29 January 2022 (2022-01-29),17:00,Gambia , Cameroon,0,2,Quarter-finals,,16,5,8,-1
+2022,29 January 2022 (2022-01-29),20:00,Burkina Faso , Tunisia,1,0,Quarter-finals,,3,41,8,1
+2022,30 January 2022 (2022-01-30),16:00[note 2],Egypt , Morocco,2,1,Quarter-finals,,12,30,8,1
+2022,30 January 2022 (2022-01-30),20:00,Senegal , Equatorial Guinea,3,1,Quarter-finals,,33,14,8,1
+2022,2 February 2022 (2022-02-02),20:00,Burkina Faso , Senegal,1,3,Semi-finals,,3,35,11,-1
+2022,3 February 2022 (2022-02-03),20:00,Cameroon , Egypt,0,0,Semi-finals,,5,13,11,0
+2022,5 February 2022 (2022-02-05),20:00[note 5],Burkina Faso , Cameroon,3,3,Third place,,3,5,14,0
+2022,6 February 2022 (2022-02-06),20:00,Senegal , Egypt,0,0,Final,,33,13,0,0

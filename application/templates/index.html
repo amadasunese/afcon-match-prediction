@@ -1,30 +1,84 @@
-<!-- templates/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>AFCON Match Outcome Predictor</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="{{ url_for('static', filename='js/predictor.js') }}"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
 </head>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="{{ url_for('index') }}">
+        <img src="{{ url_for('static', filename='images/afconlogo.jpeg') }}" alt="Logo" height="30">
+        AFCON Predictor
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('index') }}">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('feedback') }}">Feedback</a>
+            </li>
+            <!-- Add other navigation links as needed -->
+        </ul>
+    </div>
+</nav>
+
+
 <body>
 
 <div class="bg">
     <div class="container">
-        <h1>AFCON Match Outcome Predictor</h1>
-        <form method="post">
-            <label for="home_team">Home Team:</label>
-            <input type="text" id="home_team" name="home_team" required>
-            <label for="away_team">Away Team:</label>
-            <input type="text" id="away_team" name="away_team" required>
-            <label for="stage">Stage:</label>
-            <input type="text" id="stage" name="stage" required>
-            <button type="submit">Predict Outcome</button>
+       
+
+        <h2>AFCON Match Outcome Predictor</h2>
+        <form method="post" action="{{ url_for('index') }}">
+            <div class="form-group">
+                <label for="home_team">Home Team:</label>
+                <select name="home_team" id="home_team" required>
+                    <option value="">--Select Home Team--</option>
+                    {% for team in team_names %}
+                    <option value="{{ team }}">{{ team }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="away_team">Away Team:</label>
+                <select name="away_team" id="away_team" required>
+                    <option value="">--Select Away Team--</option>
+                    {% for team in team_names %}
+                    <option value="{{ team }}">{{ team }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="stage">Stage:</label>
+                <select name="stage" id="stage" required>
+                    <option value="">--Select Match Stage--</option>
+                    <option value="Final">Final</option>
+                    <option value="Group stage">Group Stage</option>
+                    <option value="Quarter-finals">Quarter-finals</option>
+                    <option value="Round of 16">Round of 16</option>
+                    <option value="Semi-finals">Semi-finals</option>
+                    <option value="third place">Third Place</option>
+                    <!-- More stages as needed -->
+                </select>
+            </div>
+
+            <button type="submit" class="predict-button">Predict Outcome</button>
         </form>
         {% if prediction %}
-            <p>Prediction: {{ prediction }}</p>
+            <p class="prediction-result">Prediction: {{ prediction }}</p>
         {% endif %}
     </div>
 </div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
 </body>
 </html>

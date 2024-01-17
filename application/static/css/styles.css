@@ -27,11 +27,32 @@ body, html {
     background: rgba(255, 255, 255, 0.8); /* semi-transparent white */
     border-radius: 10px;
     width: 300px; /* adjust as necessary */
+    
+}
+
+.form-group {
+    margin-bottom: 15px; /* Adjust the space between form groups */
 }
 
 form {
     display: flex;
     flex-direction: column;
+    /* The height can be auto to accommodate the content, or you can set a specific height */
+    height: auto;
+}
+
+/* Style for labels and select elements */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
 
 label, input, button {
@@ -42,4 +63,8 @@ button {
     cursor: pointer;
 }
 
-/* Add additional styling as needed */
+
+
+
+
+
