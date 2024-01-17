@@ -36,7 +36,7 @@ def encode_stage(stage_name, stage_encoding):
 @app.route('/', methods=['GET', 'POST'])
 def index():
     # Load your historical match data
-    matches_df = pd.read_csv('data/Matches23_with_Winners.csv')
+    matches_df = pd.read_csv('data/Matches_ed.csv')
 
     # Other code to read team names from Excel
     teams_df = pd.read_excel('data/Matches23_with_Winners.xls')
